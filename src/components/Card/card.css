@@ -1,0 +1,29 @@
+
+*{
+      font-family: 'Raleway', sans-serif;
+      font-weight: 700;
+}
+
+.space{
+      padding-left: 40px;
+}
+
+.name{
+      font-size: 50px;
+      font-weight: 900;
+
+
+
+}
+
+.button-toggle{
+      position: relative;
+      top: 40px;
+}
+
+.button-area{
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-start;
+}
+
